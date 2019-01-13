@@ -8,5 +8,5 @@
 5. Join your server and login by pressing "T" and typing #login ADMINPW and pressing "enter"
 6. Press "T" again and this time type /opme and press "enter"
 
-!(https://prntscr.com/m6hojo)
+!!launching from steam remember to(https://prntscr.com/m6hojo)
 
