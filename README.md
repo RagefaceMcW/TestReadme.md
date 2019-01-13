@@ -11,3 +11,4 @@
 7. If starting game from Steam make sure to add "-mod=Dayz-Sa-Tomato" to start params.
 ![alt text](https://i.ibb.co/t3swkS3/Screenshot-7.png)
 
+Please note that the profiles folder does NOT have to be named "profiles" that was just used to clarify locations.
