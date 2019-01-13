@@ -47,16 +47,28 @@ Or the PREFERRED way @Discord https://discord.gg/qqjwVXV
 1. Copy DayZ-SA-Tomato to your Server/Client main Folder
 2. Copy SchnitzelPommes.bikey to your Servers keys folder
 
+
 ![alt text](https://i.ibb.co/5jcGNRQ/Screenshot-3.png)
+
 
 7. Set start param "-mod=DayZ-SA-Tomato" at Server/Client 
 8. If profiles isn't set, add "-profiles=PATH TO PROFILES FOLDER" To your server start parameters.
 
+
 ![alt text](https://i.ibb.co/YdpXCwS/Screenshot-2.png)
 
-7. If starting game from Steam make sure to add "-mod=Dayz-Sa-Tomato" to start params.
+
+7. Make sure DayZ-Sa-Tomato is loaded in DayZ Launcher before starting
+
+
+![alt text](https://i.ibb.co/427c1Mr/Screenshot-1.png)
+
+
+7.5. If starting game from Steam make sure to add "-mod=Dayz-Sa-Tomato" to start params.
+
 
 ![alt text](https://i.ibb.co/t3swkS3/Screenshot-7.png)
+
 
 5. Join your server and login by pressing "T" and typing #login ADMINPW and pressing "enter"
 6. Press "T" again and this time type /opme and press "enter"
