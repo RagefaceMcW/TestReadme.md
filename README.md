@@ -1,6 +1,6 @@
 # DayZ-SA-Tomato
 
-Dayz Standalone UI Admin Tool
+Dayz Standalone GUI Based Admin Tool
 
 
 
