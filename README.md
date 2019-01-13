@@ -1,4 +1,4 @@
-# DayZ SA Tomato
+# DayZ-SA-Tomato
 
 Dayz Standalone UI Admin Tool
 
