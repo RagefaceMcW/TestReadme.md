@@ -31,7 +31,7 @@ See CHANGELOG.md
 - 
 
 
-#### If Someone got the mod to work on a 3rd Party hoster Cantact me or join https://discord.gg/Svgz48m
+#### If Someone has this mod working on a 3rd Party host (GSP) PLEASE Cantact me or join https://discord.gg/Svgz48m to let us know to help others with the same service get their mod working as well
 
 ##  Notes
 
@@ -41,7 +41,7 @@ You can do with this tool what you want as the licence says if you add any featu
 You could cantact me per mail at DayZ-SA-Tomato@Primary-Network.de
 Or @Discord https://discord.gg/qqjwVXV
 
-### Installing
+### Installation
 
 1. Click download and get the zip file and open it
 1. Copy DayZ-SA-Tomato to your Server/Client main Folder
