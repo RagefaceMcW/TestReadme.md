@@ -39,7 +39,7 @@ You can do with this tool what you want as the licence says if you add any featu
 
 
 You could cantact me per mail at DayZ-SA-Tomato@Primary-Network.de
-Or @Discord https://discord.gg/qqjwVXV
+Or the PREFERRED way @Discord https://discord.gg/qqjwVXV
 
 ### Installation
 
