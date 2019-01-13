@@ -38,7 +38,7 @@ See CHANGELOG.md
 You can do with this tool what you want as the licence says if you add any features to it i would appreciate if you would share your code so that everyone can benefit from it.
 
 
-You could cantact me per mail at DayZ-SA-Tomato@Primary-Network.de
+You could cantact me by email at DayZ-SA-Tomato@Primary-Network.de
 Or the PREFERRED way @Discord https://discord.gg/qqjwVXV
 
 ### Installation
