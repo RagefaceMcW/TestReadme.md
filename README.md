@@ -3,6 +3,7 @@
 
 1. Copy DayZ-SA-Tomato to your Server/Client main Folder
 2. Copy SchnitzelPommes.bikey to your Servers keys folder
+![alt text](https://i.ibb.co/5jcGNRQ/Screenshot-3.png)
 7. Set start param "-mod=DayZ-SA-Tomato" at Server/Client 
 8. If profiles isn't set, add "-profiles=PATH TO PROFILES FOLDER" To your server start parameters.
 ![alt text](https://i.ibb.co/YdpXCwS/Screenshot-2.png)
