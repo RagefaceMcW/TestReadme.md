@@ -116,6 +116,9 @@ If Your Server is also configured correct and Admins.txt Contains your id The Ui
 * **In Game** - Insert Key go to Camera Mode Insert again to tp to Cursor
 * **In Game** - N Key to Teleport to Cursor
 
+
+![alt text](https://i.ibb.co/Sv78jk2/Screenshot-12.png)
+
 ------------
 
 * **Commands Tab** - Toggle In Game Keys
@@ -125,9 +128,15 @@ If Your Server is also configured correct and Admins.txt Contains your id The Ui
 * **Commands Tab** - Spawn Car repaired and filled
 * **Commands Tab** - Refill nearest Car
 
+
+![alt text](https://i.ibb.co/f2f231q/COMMANDS.jpg)
+
 ------------
 
 * **Spawn Tab** - Item/AI/Building Spawning 
+
+
+![alt text](https://i.ibb.co/rGY1kWS/SPAWN.jpg)
 
 ------------
 
@@ -139,11 +148,17 @@ If Your Server is also configured correct and Admins.txt Contains your id The Ui
 * **Player Tab** - Heal Player
 * **Player Tab** - Kill Player
 
+
+![alt text](https://i.ibb.co/HNtddT5/PLAYER.jpg)
+
 ------------
 
 * **Map Tab** - Shows Location of all Players on the Map
 * **Map Tab** - Spawn Zombie Horde on map
 * **Map Tab** - Teleport by map
+
+
+![alt text](https://i.ibb.co/h73WcvQ/MAP.jpg)
 
 
 ### Known Issues
