@@ -83,7 +83,7 @@ Or the PREFERRED way @Discord https://discord.gg/qqjwVXV
 
 
 9. Press "T" again and this time type /opme and press "enter"
-10. ## DONT DO ANYTHING ELSE
+10. ## DO NOT DO ANYTHING ELSE
 11. Close out of the game and restart the server
 12. Join the server once again and this time WITHOUT logging in hit "m" and VOILA
 
