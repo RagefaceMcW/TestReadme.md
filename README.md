@@ -1,3 +1,39 @@
+# DayZ SA Tomato
+
+Dayz Standalone UI Admin Tool
+
+
+
+## Changelog
+
+See CHANGELOG.md
+
+## News
+
+## 01.13.2019 23:00
+
+
+### Added 
+
+- Teleport Locations added right from in-game gui.
+- Spawn a changable size horde of zombies by a simple click on the map or on a certain player.
+- Delete items. (at crosshair)
+- Player files sorted by Steam64ID for easy adding of admin to the server.
+
+ ### next up
+- 
+
+
+#### If Someone got the mod to work on a 3rd Party hoster Cantact me or join https://discord.gg/Svgz48m
+
+##  Notes
+
+You can do with this tool what you want as the licence says if you add any features to it i would appreciate if you would share your code so that everyone can benefit from it.
+
+
+You could cantact me per mail at DayZ-SA-Tomato@Primary-Network.de
+Or @Discord https://discord.gg/qqjwVXV
+
 ### Installing
 
 1. Click download and get the zip file and open it
