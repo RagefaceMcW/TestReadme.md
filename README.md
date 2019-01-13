@@ -54,11 +54,12 @@ Or the PREFERRED way @Discord https://discord.gg/qqjwVXV
 
 ![alt text](https://i.ibb.co/YdpXCwS/Screenshot-2.png)
 
-5. Join your server and login by pressing "T" and typing #login ADMINPW and pressing "enter"
-6. Press "T" again and this time type /opme and press "enter"
 7. If starting game from Steam make sure to add "-mod=Dayz-Sa-Tomato" to start params.
 
 ![alt text](https://i.ibb.co/t3swkS3/Screenshot-7.png)
+
+5. Join your server and login by pressing "T" and typing #login ADMINPW and pressing "enter"
+6. Press "T" again and this time type /opme and press "enter"
 
 Please note that the profiles folder does NOT have to be named "profiles" that was just used to clarify locations.
 
