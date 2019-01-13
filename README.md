@@ -5,8 +5,9 @@
 2. Copy SchnitzelPommes.bikey to your Servers keys folder
 7. Set start param "-mod=DayZ-SA-Tomato" at Server/Client 
 8. If profiles isn't set, add "-profiles=PATH TO PROFILES FOLDER" To your server start parameters.
+![alt text](https://i.ibb.co/YdpXCwS/Screenshot-2.png)
 5. Join your server and login by pressing "T" and typing #login ADMINPW and pressing "enter"
 6. Press "T" again and this time type /opme and press "enter"
-
+7. If starting game from Steam make sure to add "-mod=Dayz-Sa-Tomato" to start params.
 ![alt text](https://i.ibb.co/t3swkS3/Screenshot-7.png)
 
