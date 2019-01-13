@@ -8,5 +8,5 @@
 5. Join your server and login by pressing "T" and typing #login ADMINPW and pressing "enter"
 6. Press "T" again and this time type /opme and press "enter"
 
-![alt text](https://ibb.co/N7jgQX7)
+![alt text](https://i.ibb.co/t3swkS3/Screenshot-7.png)
 
