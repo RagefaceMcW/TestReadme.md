@@ -17,8 +17,15 @@ See CHANGELOG.md
 
 - Teleport Locations added right from in-game gui.
 - Spawn a changable size horde of zombies by a simple click on the map or on a certain player.
-- Delete items. (at crosshair)
+- Delete Object on cursor
 - Player files sorted by Steam64ID for easy adding of admin to the server.
+- Teleport on Map click
+- Horde on Map Click 
+- Customizable Kill feed standard is disabled (change it in Config File atr ur profiles folder)
+- Customizable Welcome message
+- Kill log file 
+- Spectate Player
+
 
  ### next up
 - 
