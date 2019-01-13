@@ -75,7 +75,7 @@ Check your Server log for
 Adding Admin:
 ```
 
-If this Meessage appears the server loadet the tool if not you did something wrong
+If this Meessage appears the server has loaded the tool, if not you have done something wrong.
 
 ```
 In Game press "M" Key
