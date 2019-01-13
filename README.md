@@ -51,27 +51,30 @@ Or the PREFERRED way @Discord https://discord.gg/qqjwVXV
 ![alt text](https://i.ibb.co/5jcGNRQ/Screenshot-3.png)
 
 
-7. Set start param "-mod=DayZ-SA-Tomato" at Server/Client 
-8. If profiles isn't set, add "-profiles=PATH TO PROFILES FOLDER" To your server start parameters.
+4. Set start param "-mod=DayZ-SA-Tomato" at Server/Client 
+5. If profiles isn't set, add "-profiles=PATH TO PROFILES FOLDER" To your server start parameters.
 
 
 ![alt text](https://i.ibb.co/YdpXCwS/Screenshot-2.png)
 
 
-7. Make sure DayZ-Sa-Tomato is loaded in DayZ Launcher before starting
+6. Make sure DayZ-Sa-Tomato is loaded in DayZ Launcher before starting
 
 
 ![alt text](https://i.ibb.co/427c1Mr/Screenshot-1.png)
 
 
-7.5. If starting game from Steam make sure to add "-mod=Dayz-Sa-Tomato" to start params.
+7. If starting game from Steam make sure to add "-mod=Dayz-Sa-Tomato" to start params.
 
 
 ![alt text](https://i.ibb.co/t3swkS3/Screenshot-7.png)
 
 
-5. Join your server and login by pressing "T" and typing #login ADMINPW and pressing "enter"
-6. Press "T" again and this time type /opme and press "enter"
+8. Join your server and login by pressing "T" and typing #login ADMINPW and pressing "enter"
+9. Press "T" again and this time type /opme and press "enter"
+10. ##DONT DO ANYTHING ELSE
+11. Close out of the game and restart the server
+12. Join the server once again and this time WITHOUT logging in hit "m" and VOILA
 
 Please note that the profiles folder does NOT have to be named "profiles" that was just used to clarify locations.
 
