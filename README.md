@@ -116,6 +116,8 @@ If Your Server is also configured correct and Admins.txt Contains your id The Ui
 ------------
 
 * **Map Tab** - Shows Location of all Players on the Map
+* **Map Tab** - Spawn Zombie Horde on map
+* **Map Tab** - Teleport by map
 
 
 ### Known Issues
