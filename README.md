@@ -58,6 +58,12 @@ Or the PREFERRED way @Discord https://discord.gg/qqjwVXV
 ![alt text](https://i.ibb.co/YdpXCwS/Screenshot-2.png)
 
 
+6. Move the DayZ-Sa-Tomato profiles folder from the mod folder profiles folder to server profiles folder.
+
+
+![alt text](https://i.ibb.co/C5xjcsm/Untitled.png)
+
+
 6. Make sure DayZ-Sa-Tomato is loaded in DayZ Launcher before starting
 
 
