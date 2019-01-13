@@ -8,5 +8,5 @@
 5. Join your server and login by pressing "T" and typing #login ADMINPW and pressing "enter"
 6. Press "T" again and this time type /opme and press "enter"
 
-![alt text](https://prntscr.com/m6hojo)
+!(https://prntscr.com/m6hojo)
 
