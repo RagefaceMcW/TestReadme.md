@@ -116,9 +116,6 @@ If Your Server is also configured correct and Admins.txt Contains your id The Ui
 * **In Game** - Insert Key go to Camera Mode Insert again to tp to Cursor
 * **In Game** - N Key to Teleport to Cursor
 
-
-![alt text](https://i.ibb.co/Sv78jk2/Screenshot-12.png)
-
 ------------
 
 * **Commands Tab** - Toggle In Game Keys
