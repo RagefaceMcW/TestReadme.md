@@ -126,6 +126,7 @@ If Your Server is also configured correct and Admins.txt Contains your id The Ui
 * **Commands Tab** - Nighttime
 * **Commands Tab** - Spawn Car repaired and filled
 * **Commands Tab** - Refill nearest Car
+* **Commands Tab** - Delete at cursor
 
 
 ![alt text](https://i.ibb.co/f2f231q/COMMANDS.jpg)
@@ -146,6 +147,7 @@ If Your Server is also configured correct and Admins.txt Contains your id The Ui
 * **Player Tab** - Disable Stamina for specific Player 
 * **Player Tab** - Heal Player
 * **Player Tab** - Kill Player
+* **Player Tab** - Spectate Player
 
 
 ![alt text](https://i.ibb.co/HNtddT5/PLAYER.jpg)
