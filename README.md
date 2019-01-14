@@ -51,16 +51,25 @@ Or the PREFERRED way @Discord https://discord.gg/qqjwVXV
 ![alt text](https://i.ibb.co/5jcGNRQ/Screenshot-3.png)
 
 
+
+
 4. Set start param "-mod=DayZ-SA-Tomato" at Server/Client 
 5. If profiles isn't set, add "-profiles=PATH TO PROFILES FOLDER" To your server start parameters.
 
 
+
+
 ![alt text](https://i.ibb.co/YdpXCwS/Screenshot-2.png)
+
 
 ![alt text](https://i.ibb.co/MBvjR0k/Untitled2.png)
 
 
+
+
 6. Move the DayZ-Sa-Tomato profiles folder from the mod folder profiles folder to server profiles folder.
+
+
 
 
 ![alt text](https://i.ibb.co/C5xjcsm/Untitled.png)
@@ -69,19 +78,31 @@ Or the PREFERRED way @Discord https://discord.gg/qqjwVXV
 6. Make sure DayZ-Sa-Tomato is loaded in DayZ Launcher before starting
 
 
+
+
 ![alt text](https://i.ibb.co/427c1Mr/Screenshot-1.png)
+
+
 
 
 7. If starting game from Steam make sure to add "-mod=Dayz-Sa-Tomato" to start params.
 
 
+
+
 ![alt text](https://i.ibb.co/t3swkS3/Screenshot-7.png)
+
+
 
 
 8. Join your server and login by pressing "T" and typing #login ADMINPW and pressing "enter"
 
 
+
+
 ![alt text](https://i.ibb.co/Sv78jk2/Screenshot-12.png)
+
+
 
 
 9. Press "T" again and this time type /opme and press "enter"
@@ -129,11 +150,15 @@ If Your Server is also configured correct and Admins.txt Contains your id The Ui
 * **Commands Tab** - Delete at cursor
 
 
+
+
 ![alt text](https://i.ibb.co/f2f231q/COMMANDS.jpg)
 
 ------------
 
-* **Spawn Tab** - Item/AI/Building Spawning 
+* **Spawn Tab** - Item/AI/Building Spawning
+
+
 
 
 ![alt text](https://i.ibb.co/rGY1kWS/SPAWN.jpg)
@@ -150,6 +175,8 @@ If Your Server is also configured correct and Admins.txt Contains your id The Ui
 * **Player Tab** - Spectate Player
 
 
+
+
 ![alt text](https://i.ibb.co/HNtddT5/PLAYER.jpg)
 
 ------------
@@ -157,6 +184,8 @@ If Your Server is also configured correct and Admins.txt Contains your id The Ui
 * **Map Tab** - Shows Location of all Players on the Map
 * **Map Tab** - Spawn Zombie Horde on map
 * **Map Tab** - Teleport by map
+
+
 
 
 ![alt text](https://i.ibb.co/h73WcvQ/MAP.jpg)
