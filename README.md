@@ -21,14 +21,15 @@ See CHANGELOG.md
 - Player files sorted by Steam64ID for easy adding of admin to the server.
 - Teleport on Map click
 - Horde on Map Click 
-- Customizable Kill feed standard is disabled (change it in Config File atr ur profiles folder)
+- Customizable Kill feed (standard is disabled, change it in Config.txt File in your profiles folder)
 - Customizable Welcome message
 - Kill log file 
 - Spectate Player
 
 
  ### next up
-- 
+ 
+- TBA
 
 
 #### If Someone has this mod working on a 3rd Party host (GSP) PLEASE Cantact me or join https://discord.gg/Svgz48m to let us know to help others with the same service get their mod working as well
