@@ -102,7 +102,7 @@ Check out this Link if you are using a 3rd party hoster. They changed their Wiki
 ```
 ```
 ![alt text](https://i.ibb.co/7txxPKh/Screenshot-8.png)
-(click on 2nd and 3rd pictures for clearer shots of these same pictures)
+(click on 3rd and 4th pictures for clearer shots of these same pictures)
 ```
 ```
 ## Features
