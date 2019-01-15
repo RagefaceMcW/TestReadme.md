@@ -93,8 +93,10 @@ Or the PREFERRED way @Discord https://discord.gg/qqjwVXV
 Please note that the profiles folder does NOT have to be named "profiles" that was just used to clarify locations.
 
 Check out this Link if you are using a 3rd party hoster. They changed their Wiki since a user asked them how to Install this mod probs to them https://trugaming.com/wiki/index.php?title=DayZ#Server_Side_Mods hopefully this helps a little bit
-
-
+```
+```
+```
+```
 ## Troubleshooting
 
 -If you are still not able to access the admin tool with "M" there IS another way to activate the menu on your server. First, go to your DayZ server root and find your "profiles" (or whatever you named your profiles folder) and open it. Inside that folder will be a DayZ-Sa-Tomato folder. Inside that there is a "config" folder and inside that one is a "players" folder. There should be a file in there YOURSTEAM64ID.player (i.e. 76561198161388867.Player). right click and edit that to change Admin = 0 to Admin = 1 save and close that file. Back out to the "config" folder and edit config.txt to change the first option Setup = 0 to setup = 1. Restart the server and join your server and "M" should now work for you.
