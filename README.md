@@ -48,65 +48,43 @@ Or the PREFERRED way @Discord https://discord.gg/qqjwVXV
 2. Copy SchnitzelPommes.bikey to your Servers keys folder
 ```
 ```
-```
-```
 ![alt text](https://i.ibb.co/5jcGNRQ/Screenshot-3.png)
-
-
-
-
+```
+```
 4. Set start param "-mod=DayZ-SA-Tomato" at Server/Client 
 5. If profiles isn't set, add "-profiles=PATH TO PROFILES FOLDER" To your server start parameters.
-
-
-
-
+```
+```
 ![alt text](https://i.ibb.co/YdpXCwS/Screenshot-2.png)
 
 
 ![alt text](https://i.ibb.co/MBvjR0k/Untitled2.png)
-
-
-
-
+```
+```
 6. Move the DayZ-Sa-Tomato profiles folder from the mod folder profiles folder to server profiles folder.
-
-
-
-
+```
+```
 ![alt text](https://i.ibb.co/C5xjcsm/Untitled.png)
-
-
+```
+```
 6. Make sure DayZ-Sa-Tomato is loaded in DayZ Launcher before starting
-
-
-
-
+```
+```
 ![alt text](https://i.ibb.co/427c1Mr/Screenshot-1.png)
-
-
-
-
+```
+```
 7. If starting game from Steam make sure to add "-mod=Dayz-Sa-Tomato" to start params.
-
-
-
-
+```
+```
 ![alt text](https://i.ibb.co/t3swkS3/Screenshot-7.png)
-
-
-
-
+```
+```
 8. Join your server and login by pressing "T" and typing #login ADMINPW and pressing "enter"
-
-
-
-
+```
+```
 ![alt text](https://i.ibb.co/Sv78jk2/Screenshot-12.png)
-
-
-
-
+```
+```
 9. Press "T" again and this time type /opme and press "enter"
 10. ## DO NOT DO ANYTHING ELSE
 11. Close out of the game and restart the server
@@ -120,19 +98,8 @@ Check out this Link if you are using a 3rd party hoster. They changed their Wiki
 ## Troubleshooting
 
 -If you are still not able to access the admin tool with "M" there IS another way to activate the menu on your server. First, go to your DayZ server root and find your "profiles" (or whatever you named your profiles folder) and open it. Inside that folder will be a DayZ-Sa-Tomato folder. Inside that there is a "config" folder and inside that one is a "players" folder. There should be a file in there YOURSTEAM64ID.player (i.e. 76561198161388867.Player). right click and edit that to change Admin = 0 to Admin = 1 save and close that file. Back out to the "config" folder and edit config.txt to change the first option Setup = 0 to setup = 1. Restart the server and join your server and "M" should now work for you.
-  
-
 ```
-
 ```
-
-
-
-```
-
-```
-
-
 ## Features
 
 * **In Game** - M Key brings up the UI
