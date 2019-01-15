@@ -52,7 +52,7 @@ Or the PREFERRED way @Discord https://discord.gg/qqjwVXV
 ![alt text](https://i.ibb.co/5jcGNRQ/Screenshot-3.png)
 ```
 ```
-4. Set start param "-mod=DayZ-SA-Tomato" at Server/Client 
+4. Set start param "-mod=DayZ-SA-Tomato" at Server/Client (not needed client side if using DayZ Launcher) 
 5. If profiles isn't set, add "-profiles=PATH TO PROFILES FOLDER" To your server start parameters.
 ```
 ```
