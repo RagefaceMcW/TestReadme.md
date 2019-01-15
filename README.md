@@ -45,9 +45,7 @@ Or the PREFERRED way @Discord https://discord.gg/qqjwVXV
 
 1. Click download and get the zip file and open it
 1. Copy DayZ-SA-Tomato to your Server/Client main Folder
-2. Copy SchnitzelPommes.bikey to your Servers keys folder
-
-
+2. Copy SchnitzelPommes.bikey to your Servers keys folder                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
 ![alt text](https://i.ibb.co/5jcGNRQ/Screenshot-3.png)
 
 
@@ -115,23 +113,21 @@ Please note that the profiles folder does NOT have to be named "profiles" that w
 Check out this Link if you are using a 3rd party hoster. They changed their Wiki since a user asked them how to Install this mod probs to them https://trugaming.com/wiki/index.php?title=DayZ#Server_Side_Mods hopefully this helps a little bit
 
 
-## Test and Use
+## Troubleshooting
 
-Start your Server and login
-
-Check your Server log for 
-
-```
-Adding Admin:
-```
-
-If this Meessage appears the server has loaded the tool, if not you have done something wrong.
+-If you are still not able to access the admin tool with "M" there IS another way to activate the menu on your server. First, go to your DayZ server root and find your "profiles" (or whatever you named your profiles folder) and open it. Inside that folder will be a DayZ-Sa-Tomato folder. Inside that there is a "config" folder and inside that one is a "players" folder. There should be a file in there YOURSTEAM64ID.player (i.e. 76561198161388867.Player). right click and edit that to change Admin = 0 to Admin = 1 save and close that file. Back out to the "config" folder and edit config.txt to change the first option Setup = 0 to setup = 1. Restart the server and join your server and "M" should now work for you.
+  
 
 ```
-In Game press "M" Key
+
 ```
-If Your Client is configured with the mod a Message will appear @chat
-If Your Server is also configured correct and Admins.txt Contains your id The Ui will open
+
+
+
+```
+
+```
+
 
 ## Features
 
