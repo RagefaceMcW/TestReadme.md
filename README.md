@@ -36,7 +36,7 @@ See CHANGELOG.md
 
 ##  Notes
 
-You can do what you with this tool as the license says. But if you add any features to it, i would appreciate if you would share your code so that everyone can benefit from it.
+You can do what you like with this tool as the license states. But if you add any features to it, i would appreciate if you would share your code so that everyone can benefit from it.
 
 
 You could cantact me by email at DayZ-SA-Tomato@Primary-Network.de
