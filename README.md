@@ -59,7 +59,7 @@ Or the PREFERRED way @Discord https://discord.gg/qqjwVXV
 ![alt text](https://i.ibb.co/YdpXCwS/Screenshot-2.png)
 ```
 ```
-6. Move the DayZ-Sa-Tomato profiles folder from the mod folder tomato_profiles folder to server profiles folder.
+6. Move the DayZ-Sa-Tomato profile folder from the mod folder's tomato_profiles folder to server profiles folder.
 ```
 ```
 ![alt text](https://i.ibb.co/0MgcHVW/Screenshot-3.png)
