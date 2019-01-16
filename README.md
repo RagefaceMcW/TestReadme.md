@@ -97,9 +97,8 @@ Check out this Link if you are using a 3rd party hoster. They changed their Wiki
 ```
 ```
 ### Enabling Logs and Messages
-```
-```
-First thing you do is to go in to your serverand open DayZServer/URPROFILES/DayZ-Sa-Tomato/Config/Config.txt file find the features you'd like to add and change the number 0 at the end to a 1 to enable it.
+
+First thing you do is to go in to your server and open DayZServer/URPROFILES/DayZ-Sa-Tomato/Config/Config.txt file. Find the features you'd like to add and change the number 0 at the end to a 1 to enable it.
 ```
 ```
 ![alt text](https://i.ibb.co/4KWcsCJ/Screenshot-2.png)
