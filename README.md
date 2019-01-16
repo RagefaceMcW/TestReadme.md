@@ -59,7 +59,7 @@ Or the PREFERRED way @Discord https://discord.gg/qqjwVXV
 ![alt text](https://i.ibb.co/YdpXCwS/Screenshot-2.png)
 ```
 ```
-6. Move the DayZ-Sa-Tomato profiles folder from the mod folder profiles folder to server profiles folder.
+6. Move the DayZ-Sa-Tomato profiles folder from the mod folder tomato_profiles folder to server profiles folder.
 ```
 ```
 ![alt text](https://i.ibb.co/C5xjcsm/Untitled.png)
@@ -88,14 +88,24 @@ Or the PREFERRED way @Discord https://discord.gg/qqjwVXV
 10. ## DO NOT DO ANYTHING ELSE
 11. Close out of the game and restart the server
 12. Join the server once again and this time WITHOUT logging in hit "m" and VOILA
-
-Please note that the profiles folder does NOT have to be named "profiles" that was just used to clarify locations.
-
+```
+```
+Please note that the profiles folder on the server does NOT have to be named "profiles" that was just used to clarify locations.
+```
+```
 Check out this Link if you are using a 3rd party hoster. They changed their Wiki since a user asked them how to Install this mod probs to them https://trugaming.com/wiki/index.php?title=DayZ#Server_Side_Mods hopefully this helps a little bit
 ```
 ```
+### Enabling Logs and Messages
 ```
 ```
+First thing you do is to go in to your serverand open DayZServer/URPROFILES/DayZ-Sa-Tomato/Config/Config.txt file find the features you'd like to add and change the number 0 at the end to a 1 to enable it.
+```
+```
+![alt text](https://i.ibb.co/4KWcsCJ/Screenshot-2.png)
+```
+```
+
 ## Troubleshooting
 
 -If you are still not able to access the admin tool with "M" there IS another way to activate the menu on your server. First, go to your DayZ server root and find your "profiles" (or whatever you named your profiles folder) and open it. Inside that folder will be a DayZ-Sa-Tomato folder. Inside that there is a "config" folder and inside that one is a "players" folder. There should be a file in there YOURSTEAM64ID.player (i.e. 76561198161388867.Player). right click and edit that to change Admin = 0 to Admin = 1 save and close that file. Back out to the "config" folder and edit config.txt to change the first option Setup = 0 to setup = 1. Restart the server and join your server and "M" should now work for you.
