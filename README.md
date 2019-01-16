@@ -44,8 +44,8 @@ Or the PREFERRED way @Discord https://discord.gg/qqjwVXV
 
 ### Installation
 
-1. Click download and get the zip file and open it
-1. Copy DayZ-SA-Tomato to your Server/Client main Folder
+1. Click download, get the zip file, and open it
+1. Copy DayZ-SA-Tomato to your Server AND Client main (ROOT) Folder
 2. Inside "keys" folder copy SchnitzelPommes.bikey to your Servers keys folder
 ```
 ```
