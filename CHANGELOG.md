@@ -5,8 +5,7 @@ All notable changes to this project will be documented in this file.
 ## 01.12.2019 23:00
 
 ### Fixed
-- No longer necessary to create additional folders because of the @ symbol required by certain Game Server Providers.
-- 
+- No longer necessary to create additional folders because of the @ symbol required by certain Game Server Providers. 
 
 ## 12.01.2018 23:00
 
