@@ -63,7 +63,7 @@ Or the PREFERRED way @Discord https://discord.gg/qqjwVXV
 ```
 ```
 ![alt text](https://i.ibb.co/0MgcHVW/Screenshot-3.png)
-![alt text](https://i.ibb.co/MBvjR0k/Untitled2.png)
+![alt text](https://i.ibb.co/GMbkSkW/Screenshot-4.png)
 ```
 ```
 6. Make sure DayZ-Sa-Tomato is loaded in DayZ Launcher before starting
