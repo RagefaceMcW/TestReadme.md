@@ -40,7 +40,7 @@ You can do what you like with this tool as the license states. But if you add an
 
 
 You could cantact me by email at DayZ-SA-Tomato@Primary-Network.de
-Or the PREFERRED way @Discord https://discord.gg/qqjwVXV
+Or @Discord https://discord.gg/qqjwVXV
 
 ### Installation
 
