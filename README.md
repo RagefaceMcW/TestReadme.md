@@ -172,6 +172,18 @@ Check out this Link if you are using a 3rd party hoster. They changed their Wiki
 
 ![alt text](https://i.ibb.co/h73WcvQ/MAP.jpg)
 
+------------
+
+* **About Tab** - All the information about support for DayZ-Sa-Tomato
+
+
+
+
+![alt text](https://i.ibb.co/pd1Cv3W/ABOUT.jpg)
+
+
+------------
+
 
 ### Known Issues
 * **Spwan Tab** - Item Preview (right side not working)
