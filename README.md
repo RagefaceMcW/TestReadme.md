@@ -163,6 +163,17 @@ Check out this Link if you are using a 3rd party hoster. They changed their Wiki
 
 ------------
 
+* **Teleport Tab** - Teleport location list
+* **Teleport Tab** - Add/remove teleport locations in list
+* **Teleport Tab** - Spawn zombie hordes on locations
+
+
+
+
+![alt text](https://i.ibb.co/XxWSmCb/TELEPORT.jpg)
+
+------------
+
 * **Map Tab** - Shows Location of all Players on the Map
 * **Map Tab** - Spawn Zombie Horde on map
 * **Map Tab** - Teleport by map
