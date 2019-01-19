@@ -190,7 +190,7 @@ Check out this Link if you are using a 3rd party hoster. They changed their Wiki
 
 
 
-![alt text](https://i.ibb.co/pd1Cv3W/ABOUT.jpg)
+![alt text](https://i.ibb.co/sVfqfTx/20190119155652-1.jpg)
 
 
 ------------
