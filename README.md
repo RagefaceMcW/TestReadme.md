@@ -97,7 +97,7 @@ Check out this Link if you are using a 3rd party hoster. They changed their Wiki
 ```
 ### Enabling Logs and Messages
 
--First thing you do is to go in to your server and open DayZServer/URPROFILES/DayZ-Sa-Tomato/Config/Config.txt file. Find the features you'd like to add and change the number 0 at the end to a 1 to enable it.
+-First thing you do is to go in to your server and open DayZServer/URPROFILES/Tomato_Profiles/Config/Config.txt file. Find the features you'd like to add and change the number 0 at the end to a 1 to enable it.
 
 -Next if you want to customize the messages you can but REMEMBER you can not change certain parts or you wont get all your information from the message. Make sure you DO NOT edit anyting BEFORE the = symbol, the = symbol, or anything in the {} brackets.
 ```
@@ -197,8 +197,6 @@ Check out this Link if you are using a 3rd party hoster. They changed their Wiki
 
 ### Known Issues
 * **Spwan Tab** - Item Preview (right side not working)
-* **Player Tab** - Blood Energy not showing correctly (sometimes it does)
-* **Player Tab** - Send Message not working
 
 ## License
 
