@@ -16,7 +16,7 @@ See CHANGELOG.md
 ### Added 
 
 - Teleport Locations added right from in-game gui.
-- Spawn a changable size horde of zombies by a simple click on the map or on a certain player.
+- Spawn a changable size horde of zombies by a simple click on the map or on a defined location.
 - Delete Object on cursor
 - Player files sorted by Steam64ID for easy adding of admin to the server.
 - Teleport on Map click
@@ -62,8 +62,7 @@ Or @Discord https://discord.gg/qqjwVXV
 6. Move the DayZ-Sa-Tomato profile folder from the mod folder's tomato_profiles folder to server profiles folder.
 ```
 ```
-![alt text](https://i.ibb.co/0MgcHVW/Screenshot-3.png)
-![alt text](https://i.ibb.co/GMbkSkW/Screenshot-4.png)
+![alt text](https://i.ibb.co/HgSFFbF/Screenshot-3.png)
 ```
 ```
 6. Make sure DayZ-Sa-Tomato is loaded in DayZ Launcher before starting
